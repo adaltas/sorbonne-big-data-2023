@@ -11,3 +11,5 @@ Rquirements:
 - you can use Python libraries (pandas, matplotlib...) for visualisation, or you can make plots with visualisation tools in the notebook.
 - make the notebook **linearly executable** (all the cells can be executed one after the other, without going back to the previous cell at any point).
 - make it **readable**. Write comments or markdown text to briefly describe what you did. 
+
+**NOTE**: In case of a plagiarism, all the involved students will get -50%.
